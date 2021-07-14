@@ -1,0 +1,132 @@
+[
+    [
+        "Maine Coon",
+        "Felis catus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Persian", "Felis catus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Syrian Hamster", "Mesocricetus auratus", "Mammalia", "Rentan", 3000000,
+         ""
+        ],
+    ["Golden Retreiver", "Canis lupus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Sugar Glider", "P. breviceps", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Chincilla", "Chinchilla chinchilla", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Landak Mini", "Erinaceinae", "Mammalia", "Tidak dilindungi", 3000000, ""
+        ],
+    ["Guinea Pig", "Cavia porcellus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Tupai Kelapa", "Callosciurus notatus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Musang Pandan", "P. hermaphroditus", "Mammalia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+
+    ["Chameleon", "Chamaeleonidae", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Corn Snake", "Pantherophis guttatus", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Ball Python", "Python regius", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Leopard Gecko", "E. macularius", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Sulcata", "C. sulcata", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Aldabra", "Aldabrachelys gigantea", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Leopard Pardalis", "S. pardalis", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Iguana", "I. iguana", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Blue Tounge Skink", "Tiliqua nigrolutea", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Crocodile Skink", "T. gracilis", "Reptilia", "Tidak dilindungi", 3000000,
+         ""
+        ],
+
+    ["Kenari", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Parkit", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Love Bird", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Falk", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Scarlet Macaw", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Sun Conure", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Golden Conure", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Pleci", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Burung Dara", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Perkutut", "Eublepharis macularius", "Aves", "Tidak dilindungi", 3000000,
+         ""
+        ],
+
+    ["Cupang", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Golden Fish", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Koi", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Red Tail Catfish", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Arwana", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Oscar", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Axolotl", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Louhan", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Molly", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ],
+    ["Angelfish", "Eublepharis macularius", "Aquatic", "Tidak dilindungi", 3000000,
+         ""
+        ]
+
+    
+
+    
+
+    
+]
